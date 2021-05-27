@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <!-- /Added by HTTrack -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Terraoil | Investors</title>
+    <link rel="stylesheet" href="css/indexb6f5.css?v=10">
+    <link rel="stylesheet" href="css/custom11bce.css?v=6">
+    <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-141603836-1"></script>
+    <script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'UA-141603836-1');
+	</script>
+    <script type="text/javascript">
+    var MTUserId='a2444cf7-d028-47df-abe3-07865d1ddb66';
+    var MTFontIds = new Array();
+
+    MTFontIds.push("5221335"); // Helvetica® W05 Bold Oblique
+    MTFontIds.push("5225798"); // Helvetica® W05 Roman
+    MTFontIds.push("5313891"); // Helvetica® W05 Oblique  
+    MTFontIds.push("5346886"); // Helvetica® W05 Bold
+    (function() {
+        var mtTracking = document.createElement('script');
+        mtTracking.type='text/javascript';
+        mtTracking.async='true';
+        mtTracking.src='js/mtiFontTrackingCode.js';
+
+        (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(mtTracking);
+    })();
+</script> </head>
+  <body>
+    <div class="page about"> <!-- Top Background Image Wrapper -->
+      <div class="bgded overlay" style="background-image:url('../images/about-bg.jpg');">
+        <!-- ################################################################################################ -->
+        <div class="wrapper row0">
+          <div id="topbar" class="hoc clear">
+            <!-- ################################################################################################ -->
+            <div class="fl_left">
+              <!-- ################################################################################################ -->
+              <ul class="nospace">
+                <li><i class="fas fa-phone"></i> +00 (123) 456 7890</li>
+                <li><i class="far fa-envelope"></i> info@domain.com</li>
+              </ul>
+              <!-- ################################################################################################ -->
+            </div>
+            <div class="fl_right">
+              <!-- ################################################################################################ -->
+              <ul class="nospace">
+                <li><a href="../index.html"><i class="fas fa-home"></i></a><br>
+                </li>
+                <li><a href="#" title="Help Centre"><i class="fas fa-life-ring"></i></a><br>
+                </li>
+                <li><a href="#" title="Login"><i class="fas fa-sign-in-alt"></i></a><br>
+                </li>
+                <li><a href="#" title="Sign Up"><i class="fas fa-edit"></i></a><br>
+                </li>
+              </ul>
+              <!-- ################################################################################################ -->
+            </div>
+            <!-- ################################################################################################ -->
+          </div>
+        </div>
+        <!-- ################################################################################################ -->
+        <!-- ################################################################################################ -->
+        <!-- ################################################################################################ -->
+        <div class="wrapper row1">
+          <header id="header" class="hoc clear">
+            <!-- ################################################################################################ -->
+            <div id="logo" class="fl_left">
+              <h1><a href="../index.html">TERRAOIL</a></h1>
+            </div>
+            <!-- ################################################################################################ -->
+            <nav id="mainav" class="fl_right">
+              <ul class="clear">
+                <li class="active"><a href="../index.html">Home</a></li>
+                <li><a class="drop" href="about.html">About</a>
+                  <ul>
+                    <li><a href="about.html#about">About</a></li>
+                    <li><a href="about.html#strategy">Vision &amp; Strategy</a></li>
+                    <li><a href="about.html#board">Board</a></li>
+                    <li><a href="about.html#management">Management</a></li>
+                    <li><a href="about.html#careers">Careers</a></li>
+                    <ul>
+                      <li><a href="pages/font-icons.html">Font Icons</a></li>
+                    </ul>
+                  </ul>
+                </li>
+                <li><a class="drop" href="operations.html">Operations</a>
+                  <ul>
+                    <li><a href="operations.html#assets">Assets Overview</a></li>
+                    <li><a href="operations.html#alabania">Alabania</a></li>
+                    <li><a href="operations.html#visoka">Visoka</a></li>
+                    <li><a href="operations.html#cakran-mollaj">Cakran-Mollaj</a></li>
+                    <li><a href="operations.html#gorisht">Gorisht</a></li>
+                    <li><a href="operations.html#amonice">Amonice</a></li>
+                  </ul>
+                </li>
+                <li><a href="investors.html">Investors</a></li>
+                <li><a class="drop" href="news.html">Media</a>
+                  <ul>
+                    <li><a href="news.html">News</a></li>
+                    <li><a href="publications.html">Publications</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </nav>
+            <!-- ################################################################################################ -->
+          </header>
+        </div>
+        <!-- ################################################################################################ -->
+        <!-- ################################################################################################ -->
+        <!-- ################################################################################################ -->
+        <div id="pageintro" class="hoc clear">
+          <!-- ################################################################################################ -->
+          <article class="center">
+            <h3 class="heading underline">Investors</h3>
+            <p>Mattis elit ut interdum risus id luctus consectetuer velit neque
+              ornare quam at ornare nisi velit nec turpis.</p>
+            <footer><a class="btn" href="#">Morbi accumsan ligula</a></footer>
+          </article>
+          <!-- ################################################################################################ -->
+        </div>
+        <!-- ################################################################################################ -->
+      </div>
+      <main class="about">
+        <section id="about" class="section section--white section--about">
+          <div class="container">
+            <h2 class="section__title section__title--lowercase"> Key company
+              information </h2>
+            <p class="section__regular-text"> Terraoil Swiss is an international
+              oil exploration and production company with a strong operational
+              focus in Albania and ambitions to expand its activities in
+              Albania, the Balkans, Eurasia and beyond. </p>
+            <p class="section__regular-text"> It is the operator of the Visoka
+              onshore oil field with a 100% working interest. Terraoil Swiss is
+              the second largest oil producer in Albania with production
+              exceeding one million barrels since beginning operations in 2012.
+              The Company is headquartered in Zug, Switzerland and is the
+              licensee under production sharing agreements (PSAs) with the
+              government of Albania </p>
+            <p class="section__regular-text"> In 2018, Albpetrol (an Albanian
+              state-owned oil producer) granted Terraoil Swiss three additional
+              onshore oil fields and the Heads of Terms were signed. The Company
+              expects to complete the PSAs for the new fields and to take over
+              operations by the end of 2020. The final awarding process was
+              deliberately prolonged by two unsuccessful applicants who made a
+              joint claim in court against the government and Albpetrol that
+              hindered the final takeover. High Courts in Albania were expected
+              to decide regarding the complaints in early 2020 but did not
+              convene to make their final decision due to COVID-19. The final
+              operational takeover is therefore expected shortly after the High
+              Court reconvenes and its decision is published. </p>
+            <p class="section__regular-text"> To build production in the fields
+              and to recycle reserves, Terraoil Swiss is moving ahead with a
+              multi-year field development and rehabilitation programme. </p>
+            <br>
+            <br>
+            <table class="alternating">
+              <tbody>
+                <tr>
+                  <td class="key"> Company </td>
+                  <td class="value"> Terraoil Swiss AG is a corporation existing
+                    under the laws of Switzerland and registered under number
+                    CHE-115.925.456 </td>
+                </tr>
+                <tr>
+                  <td class="key"> Business Activity </td>
+                  <td class="value"> Albanian Oil &amp; Gas sector (Exploration,
+                    development and production of oil and natural gas reserves
+                    in Albania) </td>
+                </tr>
+                <tr>
+                  <td class="key"> Founded </td>
+                  <td class="value"> 2010 </td>
+                </tr>
+                <tr>
+                  <td class="key"> Employees </td>
+                  <td class="value"> 135 (as of December 2019) </td>
+                </tr>
+                <tr>
+                  <td class="key"> Head office </td>
+                  <td class="value"> Industriestrasse 47, 6300 Zug, Switzerland
+                  </td>
+                </tr>
+                <tr>
+                  <td class="key"> Company Register </td>
+                  <td class="value"> Commercial Company Register Zug,
+                    Switzerland </td>
+                </tr>
+                <tr>
+                  <td class="key"> Enterprise Identification Number (UID) </td>
+                  <td class="value"> CHE-115.925.456 </td>
+                </tr>
+                <tr>
+                  <td class="key"> Legal Entity Identifier / LEI Code </td>
+                  <td class="value"> 50670090R069V1B25057 </td>
+                </tr>
+                <tr>
+                  <td class="key"> Website </td>
+                  <td class="value"> terraoil.swiss </td>
+                </tr>
+                <tr>
+                  <td class="key"> Share Capital </td>
+                  <td class="value"> CHF 1,428,865.08 </td>
+                </tr>
+                <tr>
+                  <td class="key"> ISIN </td>
+                  <td class="value"> CH0369663445 </td>
+                </tr>
+                <tr>
+                  <td class="key"> Valor </td>
+                  <td class="value"> 36966344 </td>
+                </tr>
+                <tr>
+                  <td class="key"> Total Shares </td>
+                  <td class="value"> 142,886,508 </td>
+                </tr>
+                <tr>
+                  <td class="key"> Type </td>
+                  <td class="value"> Registered shares </td>
+                </tr>
+                <tr>
+                  <td class="key"> Trading Form </td>
+                  <td class="value"> Electronically </td>
+                </tr>
+              </tbody>
+            </table>
+            <h2 class="section__title section__title--lowercase"> Summary
+              information </h2>
+            <br>
+            <br>
+            <table class="alternating" style="table-layout: fixed;">
+              <tbody>
+                <tr>
+                  <td class="key"> Terraoil Swiss </td>
+                  <td class="value"> Terraoil Swiss (“the Company”) has its head
+                    office in Switzerland and is the licence holder under a
+                    Production Sharing Agreement for the Visoka oil field in
+                    Albania. <br>
+                    <br>
+                    Terraoil Swiss has a 100% stake in the Visoka field; the
+                    group’s Albanian subsidiary is the operator. <br>
+                    <br>
+                    Licence term of 25 years from 2012 to 2037 (extendable
+                    thereafter for additional five year terms). </td>
+                </tr>
+                <tr>
+                  <td class="key"> Visoka oil field </td>
+                  <td class="value"> Visoka has a 2P recoverable reserve volume
+                    of 65.3 mmbbl (GCA Q1/2014). <br>
+                    <br>
+                    Current production is approximately 300 bopd, while mid-case
+                    management forecast scenario anticipates production of
+                    roughly 13,000 bopd being reached over the next few years. <br>
+                    <br>
+                    Resource estimates are based on the primary oil recovery
+                    methods. Secondary recovery methods are being tested which
+                    could improve recovery factors. </td>
+                </tr>
+                <tr>
+                  <td class="key"> Growth Strategy </td>
+                  <td class="value"> Primary recovery is planned through the
+                    anticipated development of the Company’s assets through
+                    drilling up to 187 horizontal wells across all fields. <br>
+                    <br>
+                    Heads of Terms for three additional oil fields (Cakran,
+                    Gorisht, Amonicë) were signed in June 2018. Operational
+                    takeover of the new Albanian production portfolio in 2020 is
+                    expected to provide additional returns to shareholders. <br>
+                    <br>
+                    Additional business development opportunities are under
+                    assessment. Specifically, additional assets in Albania,
+                    Balkans and Eurasia are currently under review. The further
+                    strategic focus lies on:
+                    <ul class="section__regular-list">
+                      <li> Producing and acquiring prospective oil and gas
+                        fields in Albania </li>
+                      <li> Producing and acquiring prospective oil and gas
+                        fields assets with existing or near-term production in
+                        other markets </li>
+                      <li> International Oil Trading Activities </li>
+                    </ul>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <h2 class="section__title section__title--lowercase"> Shareholding </h2>
+            <br>
+            <br>
+            <img src="images/shareholders.svg" class="investors-shareholders"> </div>
+        </section>
+      </main>
+      <div class="wrapper row4">
+        <footer id="footer" class="hoc clear">
+          <!-- ################################################################################################ -->
+          <div class="center btmspace-50">
+            <h6 class="heading">TERRAOIL</h6>
+            <nav>
+              <ul class="nospace inline pushright uppercase">
+                <li><a href="../index.html"><i class="fas fa-lg fa-home"></i></a><br>
+                </li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Terms</a></li>
+                <li><a href="privacy">Privacy</a></li>
+              <li><a href="#">Cookies</a></li>
+              <li><a href="disclaimer">Disclaimer</a></li>
+              </ul>
+            </nav>
+          </div>
+          <!-- ################################################################################################ -->
+          <hr class="btmspace-50">
+          <!-- ################################################################################################ -->
+          <div class="group">
+            <div class="one_quarter first">
+              <h6 class="heading">Ligula aenean id odio</h6>
+              <ul class="nospace btmspace-30 linklist contact">
+                <li><i class="fas fa-map-marker-alt"></i>
+                  <address> Street Name &amp; Number, Town, Postcode/Zip </address>
+                </li>
+                <li><i class="fas fa-phone"></i> +00 (123) 456 7890</li>
+                <li><i class="far fa-envelope"></i> info@domain.com</li>
+              </ul>
+              <ul class="faico clear">
+                <li><a class="faicon-facebook" href="#"><i class="fab fa-facebook"></i></a><br>
+                </li>
+                <li><a class="faicon-google-plus" href="#"><i class="fab fa-google-plus-g"></i></a><br>
+                </li>
+                <li><a class="faicon-linkedin" href="#"><i class="fab fa-linkedin"></i></a><br>
+                </li>
+                <li><a class="faicon-twitter" href="#"><i class="fab fa-twitter"></i></a><br>
+                </li>
+                <li><a class="faicon-vk" href="#"><i class="fab fa-vk"></i></a><br>
+                </li>
+              </ul>
+            </div>
+            <div class="one_quarter">
+              <h6 class="heading">Vivamus risus maecenas</h6>
+              <p class="nospace btmspace-15">Nunc urna porttitor eget molestie a
+                consequat at lectus donec sollicitudin.</p>
+              <form method="post" action="#">
+                <fieldset> <legend>Newsletter:</legend> <input class="btmspace-15"
+
+                    value="" placeholder="Name" type="text"> <input class="btmspace-15"
+
+                    value="" placeholder="Email" type="text"> <button type="submit"
+
+                    value="submit">Submit</button> </fieldset>
+              </form>
+            </div>
+            <div class="one_quarter">
+              <h6 class="heading">Dictum sit amet tortor</h6>
+              <ul class="nospace linklist">
+                <li><a href="#">Est a orci donec eleifend</a></li>
+                <li><a href="#">Dignissim erat proin diam</a></li>
+                <li><a href="#">Aenean vehicula augue</a></li>
+                <li><a href="#">Et neque sed ligula nisl</a></li>
+                <li><a href="#">Dictum quis tempus eu</a></li>
+              </ul>
+            </div>
+            <div class="one_quarter">
+              <h6 class="heading">Proin tincidunt venenatis</h6>
+              <ul class="nospace clear latestimg">
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+              </ul>
+            </div>
+          </div>
+          <!-- ################################################################################################ -->
+        </footer>
+      </div>
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+      <div class="wrapper row5">
+        <div id="copyright" class="hoc clear">
+          <!-- ################################################################################################ -->
+          <p class="fl_left">Copyright © 2018 - All Rights Reserved - <a href="#">Domain
+              Name</a></p>
+          <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/"
+
+              title="Free Website Templates">OS Templates</a></p>
+          <!-- ################################################################################################ -->
+        </div>
+      </div>
+    </div>
+    <script src="layout/scripts/jquery.min.js"></script>
+    <script src="layout/scripts/jquery.backtotop.js"></script>
+    <script src="layout/scripts/jquery.mobilemenu.js"></script>
+    <script src="js/main30f4.js?v=3"></script>
+  </body>
+</html>

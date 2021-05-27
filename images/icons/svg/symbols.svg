@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="0" height="0" style="position:absolute">
+	
+		<symbol id="icon-cross" viewBox="0 0 17.82 17.813">
+			<defs><style>.cls-1{fill-rule:evenodd}</style></defs><path id="menu" class="cls-1" d="M2915.51 24.1l16.39 16.385-1.41 1.414-16.39-16.384z" transform="translate(-2914.09 -24.094)"></path><path id="menu-2" data-name="menu" class="cls-1" d="M2931.9 25.514L2915.51 41.9l-1.41-1.414 16.39-16.386z" transform="translate(-2914.09 -24.094)"></path>
+		</symbol>
+	
+		<symbol id="icon-menu" viewBox="0 0 23 16">
+			<defs><style>.cls-1{fill:#fff;fill-rule:evenodd}</style></defs><path id="menu" class="cls-1" d="M2909 25h23v2h-23v-2zm0 7h23v2h-23v-2zm0 7h23v2h-23v-2z" transform="translate(-2909 -25)"></path>
+		</symbol>
+	
+		<symbol id="icon-newspaper" viewBox="0 0 28 26">
+			<defs><style>.cls-1{fill:#262626;fill-rule:evenodd}</style></defs><path id="Newspaper_alt_" data-name="Newspaper (alt)" class="cls-1" d="M665 1325a2 2 0 0 0-2-2h-20a2 2 0 0 0-2 2h-2a4 4 0 0 1 4-4h20a4 4 0 0 1 4 4h-2zm-20 0h7a1 1 0 0 1 0 2h-7a1 1 0 0 1 0-2zm0 4h4a1 1 0 0 1 0 2h-4a1 1 0 0 1 0-2zm0 10h11a1 1 0 0 1 0 2h-11a1 1 0 0 1 0-2zm0-4h16a1 1 0 0 1 0 2h-16a1 1 0 0 1 0-2zm-4 8a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-18h2v18a4 4 0 0 1-4 4h-20a4 4 0 0 1-4-4v-18h2v18z" transform="translate(-639 -1321)"></path>
+		</symbol>
+	
+		<symbol id="icon-note-snowflake" viewBox="0 0 29.16 31.437">
+			<path d="M9.24 11.809a2.758 2.758 0 0 0 2.8 0 2.848 2.848 0 0 0 1.41-2.429V2.788a1.135 1.135 0 0 1 2.27 0V9.38a2.839 2.839 0 0 0 4.24 2.429l7.24-4.187-.83-1.434-7.27 4.186a1.1 1.1 0 0 1-1.13 0 1.13 1.13 0 0 1-.56-.971V2.788a2.8 2.8 0 0 0-5.6 0V9.38a1.12 1.12 0 0 1-1.69.971L2.83 6.142 2 7.576zm4.21 11.195a2.8 2.8 0 0 0-1.41-2.429 2.758 2.758 0 0 0-2.8 0l-5.71 3.308a1.136 1.136 0 0 1-1.14-1.966l5.72-3.308a2.869 2.869 0 0 0 1.41-2.429 2.8 2.8 0 0 0-1.41-2.428L.82 9.565l-.83 1.434 7.29 4.21a1.145 1.145 0 0 1 .55.971 1.118 1.118 0 0 1-.55.972L1.56 20.46a2.793 2.793 0 1 0 2.8 4.834l5.72-3.308a1.1 1.1 0 0 1 1.13 0 1.123 1.123 0 0 1 .55.971v8.489h1.67zm8.45-7.8l7.27-4.187-.84-1.434-7.26 4.187a2.847 2.847 0 0 0-1.41 2.429 2.8 2.8 0 0 0 1.41 2.428l5.71 3.308a1.257 1.257 0 0 1 .54.694 1.149 1.149 0 0 1-.12.855 1.225 1.225 0 0 1-.69.533 1.1 1.1 0 0 1-.86-.116l-5.72-3.331a2.758 2.758 0 0 0-2.8 0 2.87 2.87 0 0 0-1.41 2.429v8.443h1.67v-8.443a1.12 1.12 0 0 1 1.69-.971l5.71 3.307a2.854 2.854 0 0 0 2.13.278 2.811 2.811 0 0 0 .7-5.135L21.9 17.17a1.133 1.133 0 0 1-.56-.971 1.1 1.1 0 0 1 .56-1"></path>
+		</symbol>
+	
+		<symbol id="icon-oil-1" viewBox="0 0 22 20">
+			<path d="M10 5h2v14h-2V5zm3 7h2v7h-2v-7zm3-11h2v18h-2V1zm3 7h2v11h-2V8zM1 15h2v4H1v-4zM4 1h2v18H4V1zm3 7h2v11H7V8z"></path>
+		</symbol>
+	
+		<symbol id="icon-oil-2" viewBox="0 0 20 11">
+			<path d="M9 0h2v11H9V0zm3 4h2v7h-2V4zm3 3h2v4h-2V7zm3 2h2v2h-2V9zM0 7h2v4H0V7zm3-3h2v7H3V4zm3-4h2v11H6V0z"></path>
+		</symbol>
+	
+		<symbol id="icon-oil-3" viewBox="0 0 22 17">
+			<path d="M10 13h2v3h-2v-3zm3-4h2v7h-2V9zm3-4h2v11h-2V5zm3 2h2v9h-2V7zM1 7h2v9H1V7zm3 2h2v7H4V9zm3-8h2v15H7V1z"></path>
+		</symbol>
+	
+		<symbol id="icon-video-play" viewBox="0 0 86.07 86.062">
+			<path d="M38.15 33.142l14.02 10.514-14.02 10.515V33.142z"></path><path d="M43.03 0A43.031 43.031 0 1 1 0 43.031 43.035 43.035 0 0 1 43.03 0zm.13 2.156a41 41 0 1 1-41 41 41 41 0 0 1 41-41z"></path>
+		</symbol>
+	
+</svg>

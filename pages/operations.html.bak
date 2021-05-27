@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Terraoil | Operations</title>
+    <link rel="stylesheet" href="css/indexb6f5.css?v=10">
+    <link rel="stylesheet" href="css/custom11bce.css?v=6">
+    <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-141603836-1"></script>
+    <script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'UA-141603836-1');
+	</script>
+    <script type="text/javascript">
+    var MTUserId='a2444cf7-d028-47df-abe3-07865d1ddb66';
+    var MTFontIds = new Array();
+
+    MTFontIds.push("5221335"); // Helvetica® W05 Bold Oblique
+    MTFontIds.push("5225798"); // Helvetica® W05 Roman
+    MTFontIds.push("5313891"); // Helvetica® W05 Oblique  
+    MTFontIds.push("5346886"); // Helvetica® W05 Bold
+    (function() {
+        var mtTracking = document.createElement('script');
+        mtTracking.type='text/javascript';
+        mtTracking.async='true';
+        mtTracking.src='js/mtiFontTrackingCode.js';
+
+        (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(mtTracking);
+    })();
+</script> </head>
+  <body>
+    <div class="page operations"> <!-- Top Background Image Wrapper -->
+      <div class="bgded overlay" style="background-image:url('../images/operations.jpg');">
+        <!-- ################################################################################################ -->
+        <div class="wrapper row0">
+          <div id="topbar" class="hoc clear">
+            <!-- ################################################################################################ -->
+            <div class="fl_left">
+              <!-- ################################################################################################ -->
+              <ul class="nospace">
+                <li><i class="fas fa-phone"></i> +00 (123) 456 7890</li>
+                <li><i class="far fa-envelope"></i> info@domain.com</li>
+              </ul>
+              <!-- ################################################################################################ -->
+            </div>
+            <div class="fl_right">
+              <!-- ################################################################################################ -->
+              <ul class="nospace">
+                <li><a href="../index.html"><i class="fas fa-home"></i></a><br>
+                </li>
+                <li><a href="#" title="Help Centre"><i class="fas fa-life-ring"></i></a><br>
+                </li>
+                <li><a href="#" title="Login"><i class="fas fa-sign-in-alt"></i></a><br>
+                </li>
+                <li><a href="#" title="Sign Up"><i class="fas fa-edit"></i></a><br>
+                </li>
+              </ul>
+              <!-- ################################################################################################ -->
+            </div>
+            <!-- ################################################################################################ -->
+          </div>
+        </div>
+        <!-- ################################################################################################ -->
+        <!-- ################################################################################################ -->
+        <!-- ################################################################################################ -->
+        <div class="wrapper row1">
+          <header id="header" class="hoc clear">
+            <!-- ################################################################################################ -->
+            <div id="logo" class="fl_left">
+              <h1><a href="../index.html">TERRAOIL</a></h1>
+            </div>
+            <!-- ################################################################################################ -->
+            <nav id="mainav" class="fl_right">
+              <ul class="clear">
+                <li class="active"><a href="../index.html">Home</a></li>
+                <li><a class="drop" href="about.html">About</a>
+                  <ul>
+                    <li><a href="about.html#about">About</a></li>
+                    <li><a href="about.html#strategy">Vision &amp; Strategy</a></li>
+                    <li><a href="about.html#board">Board</a></li>
+                    <li><a href="about.html#management">Management</a></li>
+                    <li><a href="about.html#careers">Careers</a></li>
+                    <ul>
+                      <li><a href="pages/font-icons.html">Font Icons</a></li>
+                    </ul>
+                  </ul>
+                </li>
+                <li><a class="drop" href="operations.html">Operations</a>
+                  <ul>
+                    <li><a href="operations.html#assets">Assets Overview</a></li>
+                    <li><a href="operations.html#alabania">Alabania</a></li>
+                    <li><a href="operations.html#visoka">Visoka</a></li>
+                    <li><a href="operations.html#cakran-mollaj">Cakran-Mollaj</a></li>
+                    <li><a href="operations.html#gorisht">Gorisht</a></li>
+                    <li><a href="operations.html#amonice">Amonice</a></li>
+                  </ul>
+                </li>
+                <li><a href="investors.html">Investors</a></li>
+                <li><a class="drop" href="news.html">Media</a>
+                  <ul>
+                    <li><a href="news.html">News</a></li>
+                    <li><a href="publications.html">Publications</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </nav>
+            <!-- ################################################################################################ -->
+          </header>
+        </div>
+        <!-- ################################################################################################ -->
+        <!-- ################################################################################################ -->
+        <!-- ################################################################################################ -->
+        <div id="pageintro" class="hoc clear">
+          <!-- ################################################################################################ -->
+          <article class="center">
+            <h3 class="heading underline">Operations</h3>
+            <p>Mattis elit ut interdum risus id luctus consectetuer velit neque
+              ornare quam at ornare nisi velit nec turpis.</p>
+            <footer><a class="btn" href="#">Morbi accumsan ligula</a></footer>
+          </article>
+          <!-- ################################################################################################ -->
+        </div>
+        <!-- ################################################################################################ -->
+      </div>
+      <main class="operations">
+        <aside class="breadcrumbs">
+          <ul class="breadcrumbs__list">
+            <li class="breadcrumbs__item"><a href="#assets" class="breadcrumbs__link">Assets
+                Overview</a></li>
+            <li class="breadcrumbs__item"><a href="#albania" class="breadcrumbs__link">Albania</a></li>
+            <li class="breadcrumbs__item"><a href="#visoka" class="breadcrumbs__link">Visoka</a></li>
+            <li class="breadcrumbs__item"><a href="#cakran-mollaj" class="breadcrumbs__link">Cakran-Mollaj</a></li>
+            <li class="breadcrumbs__item"><a href="#gorisht" class="breadcrumbs__link">Gorisht</a></li>
+            <li class="breadcrumbs__item"><a href="#amonice" class="breadcrumbs__link">Amonicë</a></li>
+          </ul>
+        </aside>
+        <section id="assets" class="section section--white section--assets">
+          <div class="container">
+            <h4 class="section__heading">operations</h4>
+            <div class="main-content-wrapper">
+              <h2 class="section__title"> Assets Overview </h2>
+              <div class="section__row"> <img src="../images/map.png" alt="Map">
+                <div class="section__row-container section__row-container--right">
+                  <h3>Terraoil has been producing oil in Albania since 2012.</h3>
+                  <p class="section__regular-text"> Terraoil uses
+                    environmentally friendly primary high standard production
+                    methods and applies leading western technology to leveraging
+                    productivity in oilfields which have historically
+                    underperformed due to the use of outdated equipment and
+                    operating methodologies. The Visoka Field has been operated
+                    by a subsidiary of Terraoil since February 2012 under a
+                    production sharing agreement with the Albanian government.
+                    The Company has invested over USD 80 million in capital
+                    expenditures and operations since 2012. Upon finalization
+                    and signing of the production sharing agreements for
+                    additional fields with existing production located in
+                    Cakran-Mollaj, Gorisht and Amonicë, will hold 100% interest
+                    in four onshore oil fields in Albania. The producing assets,
+                    located in the south of the country, deliver medium to heavy
+                    oil from fractured carbonate reservoirs. </p>
+                </div>
+              </div>
+              <p class="section__regular-text"> Terraoil executed the heads of
+                terms with the Albanian government for the Cakran-Mollaj,
+                Gorisht and Amonicë fields in 2018, under comparable terms to
+                Visoka. Current production totals approximately 1,100 bopd
+                across all four oil fields. </p>
+              <div class="two-columns">
+                <div class="two-columns__left">
+                  <p> Once the production sharing agreements for the new fields
+                    have been finalized and signed, Terraoil’s combined 2P
+                    reserves for the four fields is estimated (by management) at
+                    54 mmbbl. This could be massively augmented by material
+                    development upsides and acquisition opportunities. The
+                    Company aims to raise total production from 1,100 bopd to
+                    over 20,000 bopd. This will be implemented by investing in
+                    new technology and state-of-the-art processes which, given
+                    the historical underdevelopment of these assets, is expected
+                    to provide significant returns. </p>
+                  <p> The wide-ranging and comprehensive experience of
+                    Terraoil’s management team will be utilised to ensure
+                    optimal production, operational and financial excellence.
+                    The team’s experience includes heavy oil development through
+                    to production, success in managing operations with legacy
+                    Soviet technology and upgrading former Communist era
+                    management processes. </p>
+                </div>
+                <div class="two-columns__right">
+                  <p> Terraoil’s assets benefit from proximity to developed
+                    infrastructure. Being close to Fier, Albania’s sixth most
+                    populous city, road infrastructure and neighbouring towns
+                    provide support for the Company’s oilfields and employees.
+                    Terraoil currently transports all of its crude oil
+                    production to local refineries via truck. Albania has two
+                    refineries, Ballsh and Fier, with refining capacities of 6
+                    million barrels and 3 million barrels, respectively. Crude
+                    oil can also be transported via truck to Albania’s two oil
+                    export seaports, Porto Romano and Petrolifera Italo
+                    Albanese, where the oil can be exported to Italy or other
+                    refineries globally. The ports are suitable for
+                    international cargo sizes of 120,000 – 180,000 bbls of oil.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="albania" class="section section--grey section--albania">
+          <div class="container">
+            <div class="main-content-wrapper">
+              <h2 class="section__title">Albania</h2>
+              <div class="section__part">
+                <h3>Geology</h3>
+                <img class="section__img" src="../images/geology.jpg" alt="Geology">
+                <p class="section__regular-text"> Albania is located in the
+                  south-eastern part of the Adriatic basin. Present day
+                  topography is influenced by its location along the
+                  Dinaric-Albanic-Hellenic arc of the Alpine orogeny, which
+                  resulted from the tertiary collision of the African, Adriatic
+                  (Apulian) and Eurasian Plates. Albania occupies the deformed
+                  eastern Apulian (Tethyan) margin and contains Triassic–Eocene
+                  carbonate successions. The architecture of Albania shows a
+                  conventional fold and thrust belt divided into distinct
+                  geological provinces. Terraoil’s focus is on the outer
+                  Albanides in southern Albania (Ionian Zone), which are
+                  comprised of frontal thrust and foothill structures involving
+                  Mesozoic rocks formed as part of the Tethyan passive margin. </p>
+              </div>
+              <div class="section__part">
+                <h3>Operating Environment</h3>
+                <img class="section__img" src="../images/operating.jpg" alt="Operating Environment">
+                <p class="section__regular-text"> Albania provides a strong
+                  stable operating environment for oil companies. It was
+                  accepted as an EU candidate in 2014. Its EU application has
+                  made substantial progress and, in the meantime, the country
+                  already receives EU development subsidies. It has been a NATO
+                  member since 2009 and an ICC member since 2003. With its first
+                  multiparty election in 1991, the country became a democracy.
+                  Since then, the government is robust. Peaceful elections are
+                  run regularly. The country is known for its stable legal
+                  framework and employs international arbitration procedures
+                  under UNCITRAL rules. </p>
+                <p class="section__regular-text"> Albania has developed a
+                  healthy economy, which is benefitting from far-reaching
+                  structural changes being implemented by the government. The
+                  GDP growth rate has exceeded 3% since 2016 and is expected to
+                  remain strong, according to a World Bank analysis. In the 2017
+                  Index of Economic Freedom, Albania ranked 13th in the world in
+                  terms of trade freedom. It has been a free market economy
+                  since communist domination ended in 1991. </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="visoka" class="section section--white section--visoka">
+          <div class="container">
+            <div class="main-content-wrapper">
+              <h2 class="section__title">Visoka</h2>
+              <div class="section__part section__part--first"> <img class="section__img"
+
+                  src="../images/visoka.jpg" alt="Visoka">
+                <p class="section__regular-text"> The Visoka oil field began
+                  production in 1963. Cumulative production amounts to over 35
+                  mmbbl (4.5% of mid-case original oil in place estimate of 769
+                  mmbbl) of 10 to 12 API gravity oil. Reservoir pressure is
+                  supported by an underlying aquifer. The field was developed
+                  historically with over 240 vertical wells. Terraoil has
+                  drilled 12 additional horizontal wells, which demonstrate
+                  substantial improvement over vertical wells, and provide the
+                  data on which to form the basis for an upgraded development
+                  plan to drill up to 170 additional oil wells. </p>
+                <p class="section__regular-text"> There are approximately 98
+                  active wells and water injection has been shown to be
+                  beneficial in the Visoka reservoir. An advanced and well
+                  planned water injection program is expected to be rolled out
+                  during further development over the next two to three years.
+                  In the meantime, existing production is being augmented
+                  through well intervention work including pump replacements and
+                  a nitrogen stimulation program which is showing early but
+                  strong signs of success. </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="cakran-mollaj" class="section section--cakran-mollaj section--grey">
+          <div class="container">
+            <div class="main-content-wrapper">
+              <h2 class="section__title">Cakran-Mollaj</h2>
+              <div class="section__part section__part--first"> <img class="section__img"
+
+                  src="../images/cakran-mollaj.jpg" alt="Cakran-Mollaj">
+                <p class="section__regular-text"> The Cakran-Mollaj Field will
+                  be the deepest reservoir of the four fields and started
+                  production in 1978. The field has produced over 29 mmbbl of
+                  oil with an average 27 API gravity, achieving a maximum oil
+                  production rate of over 14,000 bopd. Terraoil estimates the
+                  original oil in-place volume to be approximately 568 mmbbl.
+                  Cakran-Mollaj also has a primary gas cap providing additional
+                  drive energy and potential for a gas development project. </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="gorisht" class="section section--white section--gorisht">
+          <div class="container">
+            <div class="main-content-wrapper">
+              <h2 class="section__title">Gorisht</h2>
+              <div class="section__part section__part--first"> <img class="section__img"
+
+                  src="../images/gorisht.jpg" alt="Gorisht">
+                <p class="section__regular-text"> The Gorisht Field started oil
+                  production in 1966 and has produced over 70 mmbbl of oil with
+                  an average 16 API gravity, achieving a maximum oil production
+                  rate of nearly 10,000 bopd from 295 wells. Terraoil estimates
+                  the oil in-place volume to be approximately 720 mmbbl. Water
+                  injection has also been shown to be beneficial in this
+                  reservoir, so further development plans include drilling
+                  horizontal wells and implementing a water injection program. </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="amonice" class="section section--amonicë section--grey">
+          <div class="container">
+            <div class="main-content-wrapper">
+              <h2 class="section__title">Amonicë</h2>
+              <div class="section__part section__part--first"> <img class="section__img"
+
+                  src="../images/amonice.jpg" alt="Amonicë">
+                <p class="section__regular-text"> Since commencing oil
+                  production in 1981, the Amonicë Field achieved a maximum oil
+                  production rate of over 3,000 bopd from 67 wells. It has
+                  produced over 5 mmbbl of oil, with an average 25 API gravity.
+                  The estimated original oil in-place volume is approximately
+                  104 mmbbl. </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <div id="contactModal" class="modal modal--dark modal--hidden">
+          <div class="container">
+            <h4 class="modal__heading">contact us</h4>
+            <div class="main-content-wrapper">
+              <form id="contactUs" class="modal__form">
+                <div class="modal__input-container"> <label class="modal__label modal__label--labeless">
+                    <span class="modal__label-text">name</span> <input class="modal__input"
+
+                      name="name" placeholder="Name" type="text"> </label> <label
+
+                    class="modal__label modal__label--labeless"> <span class="modal__label-text">email</span>
+                    <input class="modal__input" name="email" placeholder="Email"
+
+                      type="text"> </label> <label class="modal__label modal__label--labeless">
+                    <span class="modal__label-text ">message</span> <input class="modal__input"
+
+                      name="message" placeholder="Message" type="text"> </label>
+                </div>
+                <button id="submitContactForm" class="modal__submit button button--light">send</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </main>
+      <div class="wrapper row4">
+        <footer id="footer" class="hoc clear">
+          <!-- ################################################################################################ -->
+          <div class="center btmspace-50">
+            <h6 class="heading">TERRAOIL</h6>
+            <nav>
+              <ul class="nospace inline pushright uppercase">
+                <li><a href="index.html"><i class="fas fa-lg fa-home"></i></a><br>
+                </li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Terms</a></li>
+                <li><a href="privacy">Privacy</a></li>
+                <li><a href="#">Cookies</a></li>
+                <li><a href="disclaimer">Disclaimer</a></li>
+              </ul>
+            </nav>
+          </div>
+          <!-- ################################################################################################ -->
+          <hr class="btmspace-50">
+          <!-- ################################################################################################ -->
+          <div class="group">
+            <div class="one_quarter first">
+              <h6 class="heading">Ligula aenean id odio</h6>
+              <ul class="nospace btmspace-30 linklist contact">
+                <li><i class="fas fa-map-marker-alt"></i>
+                  <address> Street Name &amp; Number, Town, Postcode/Zip </address>
+                </li>
+                <li><i class="fas fa-phone"></i> +00 (123) 456 7890</li>
+                <li><i class="far fa-envelope"></i> info@domain.com</li>
+              </ul>
+              <ul class="faico clear">
+                <li><a class="faicon-facebook" href="#"><i class="fab fa-facebook"></i></a><br>
+                </li>
+                <li><a class="faicon-google-plus" href="#"><i class="fab fa-google-plus-g"></i></a><br>
+                </li>
+                <li><a class="faicon-linkedin" href="#"><i class="fab fa-linkedin"></i></a><br>
+                </li>
+                <li><a class="faicon-twitter" href="#"><i class="fab fa-twitter"></i></a><br>
+                </li>
+                <li><a class="faicon-vk" href="#"><i class="fab fa-vk"></i></a><br>
+                </li>
+              </ul>
+            </div>
+            <div class="one_quarter">
+              <h6 class="heading">Vivamus risus maecenas</h6>
+              <p class="nospace btmspace-15">Nunc urna porttitor eget molestie a
+                consequat at lectus donec sollicitudin.</p>
+              <form method="post" action="#">
+                <fieldset> <legend>Newsletter:</legend> <input class="btmspace-15"
+
+                    value="" placeholder="Name" type="text"> <input class="btmspace-15"
+
+                    value="" placeholder="Email" type="text"> <button type="submit"
+
+                    value="submit">Submit</button> </fieldset>
+              </form>
+            </div>
+            <div class="one_quarter">
+              <h6 class="heading">Dictum sit amet tortor</h6>
+              <ul class="nospace linklist">
+                <li><a href="#">Est a orci donec eleifend</a></li>
+                <li><a href="#">Dignissim erat proin diam</a></li>
+                <li><a href="#">Aenean vehicula augue</a></li>
+                <li><a href="#">Et neque sed ligula nisl</a></li>
+                <li><a href="#">Dictum quis tempus eu</a></li>
+              </ul>
+            </div>
+            <div class="one_quarter">
+              <h6 class="heading">Proin tincidunt venenatis</h6>
+              <ul class="nospace clear latestimg">
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+                <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                      alt=""></a></li>
+              </ul>
+            </div>
+          </div>
+          <!-- ################################################################################################ -->
+        </footer>
+      </div>
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+      <div class="wrapper row5">
+        <div id="copyright" class="hoc clear">
+          <!-- ################################################################################################ -->
+          <p class="fl_left">Copyright © 2018 - All Rights Reserved - <a href="#">Domain
+              Name</a></p>
+          <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/"
+
+              title="Free Website Templates">OS Templates</a></p>
+          <!-- ################################################################################################ -->
+        </div>
+      </div>
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+    </div>
+    <!-- JAVASCRIPTS -->
+    <script src="layout/scripts/jquery.min.js"></script>
+    <script src="layout/scripts/jquery.backtotop.js"></script>
+    <script src="layout/scripts/jquery.mobilemenu.js"></script>
+    <script src="js/main30f4.js?v=3"></script>
+  </body>
+</html>

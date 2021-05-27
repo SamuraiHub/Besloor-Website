@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Terraoil | About Us</title>
+    <link rel="stylesheet" href="css/indexb6f5.css?v=10">
+    <link rel="stylesheet" href="css/custom11bce.css?v=6">
+    <link href="../layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-141603836-1"></script>
+    <script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'UA-141603836-1');
+	</script>
+    <script type="text/javascript">
+    var MTUserId='a2444cf7-d028-47df-abe3-07865d1ddb66';
+    var MTFontIds = new Array();
+
+    MTFontIds.push("5221335"); // Helvetica® W05 Bold Oblique
+    MTFontIds.push("5225798"); // Helvetica® W05 Roman
+    MTFontIds.push("5313891"); // Helvetica® W05 Oblique  
+    MTFontIds.push("5346886"); // Helvetica® W05 Bold
+    (function() {
+        var mtTracking = document.createElement('script');
+        mtTracking.type='text/javascript';
+        mtTracking.async='true';
+        mtTracking.src='js/mtiFontTrackingCode.js';
+
+        (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(mtTracking);
+    })();
+</script> </head>
+  <body id="top"> <!-- Top Background Image Wrapper -->
+    <div class="bgded overlay" style="background-image:url('../images/about-bg.jpg');">
+      <!-- ################################################################################################ -->
+      <div class="wrapper row0">
+        <div id="topbar" class="hoc clear">
+          <!-- ################################################################################################ -->
+          <div class="fl_left">
+            <!-- ################################################################################################ -->
+            <ul class="nospace">
+              <li><i class="fas fa-phone"></i> +00 (123) 456 7890</li>
+              <li><i class="far fa-envelope"></i> info@domain.com</li>
+            </ul>
+            <!-- ################################################################################################ -->
+          </div>
+          <div class="fl_right">
+            <!-- ################################################################################################ -->
+            <ul class="nospace">
+              <li><a href="../index.html"><i class="fas fa-home"></i></a><br>
+              </li>
+              <li><a href="#" title="Help Centre"><i class="fas fa-life-ring"></i></a><br>
+              </li>
+              <li><a href="#" title="Login"><i class="fas fa-sign-in-alt"></i></a><br>
+              </li>
+              <li><a href="#" title="Sign Up"><i class="fas fa-edit"></i></a><br>
+              </li>
+            </ul>
+            <!-- ################################################################################################ -->
+          </div>
+          <!-- ################################################################################################ -->
+        </div>
+      </div>
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+      <div class="wrapper row1">
+        <header id="header" class="hoc clear">
+          <!-- ################################################################################################ -->
+          <div id="logo" class="fl_left">
+            <h1><a href="../index.html">TERRAOIL</a></h1>
+          </div>
+          <!-- ################################################################################################ -->
+          <nav id="mainav" class="fl_right">
+            <ul class="clear">
+              <li class="active"><a href="../index.html">Home</a></li>
+              <li><a class="drop" href="about.html">About</a>
+                <ul>
+                  <li><a href="about.html#about">About</a></li>
+                  <li><a href="about.html#strategy">Vision &amp; Strategy</a></li>
+                  <li><a href="about.html#board">Board</a></li>
+                  <li><a href="about.html#management">Management</a></li>
+                  <li><a href="about.html#careers">Careers</a></li>
+                  <ul>
+                    <li><a href="pages/font-icons.html">Font Icons</a></li>
+                  </ul>
+                </ul>
+              </li>
+              <li><a class="drop" href="operations.html">Operations</a>
+                <ul>
+                  <li><a href="operations.html#assets">Assets Overview</a></li>
+                  <li><a href="operations.html#alabania">Alabania</a></li>
+                  <li><a href="operations.html#visoka">Visoka</a></li>
+                  <li><a href="operations.html#cakran-mollaj">Cakran-Mollaj</a></li>
+                  <li><a href="operations.html#gorisht">Gorisht</a></li>
+                  <li><a href="operations.html#amonice">Amonice</a></li>
+                </ul>
+              </li>
+              <li><a href="investors.html">Investors</a></li>
+              <li><a class="drop" href="news.html">Media</a>
+                <ul>
+                  <li><a href="news.html">News</a></li>
+                  <li><a href="publications.html">Publications</a></li>
+                </ul>
+              </li>
+            </ul>
+          </nav>
+          <!-- ################################################################################################ -->
+        </header>
+      </div>
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+      <!-- ################################################################################################ -->
+      <div id="pageintro" class="hoc clear">
+        <!-- ################################################################################################ -->
+        <article class="center">
+          <h3 class="heading underline">About</h3>
+          <p>Mattis elit ut interdum risus id luctus consectetuer velit neque
+            ornare quam at ornare nisi velit nec turpis.</p>
+          <footer><a class="btn" href="#">Morbi accumsan ligula</a></footer>
+        </article>
+        <!-- ################################################################################################ -->
+      </div>
+      <!-- ################################################################################################ -->
+    </div>
+    <main class="about">
+      <aside class="breadcrumbs">
+        <ul class="breadcrumbs__list">
+          <li class="breadcrumbs__item"><a href="#about" class="breadcrumbs__link">about</a></li>
+          <li class="breadcrumbs__item"><a href="#strategy" class="breadcrumbs__link">vision
+              &amp; strategy</a></li>
+          <li class="breadcrumbs__item"><a href="#board" class="breadcrumbs__link">board</a></li>
+          <li class="breadcrumbs__item"><a href="#management" class="breadcrumbs__link">management</a></li>
+          <li class="breadcrumbs__item"><a href="#careers" class="breadcrumbs__link">careers</a></li>
+        </ul>
+      </aside>
+      <section id="about" class="section section--white section--about">
+        <div class="container">
+          <h4 class="section__heading">about company</h4>
+          <div class="main-content-wrapper">
+            <h2 class="section__title section__title--lowercase"> Terraoil is a
+              uniquely positioned onshore Albanian oil producer that has been
+              operating in the country since 2012. </h2>
+            <p class="section__regular-text"> Over that period, it has produced
+              over one million barrels of oil and, in 2016, Terraoil was
+              selected by the Albanian government as the country’s best foreign
+              investor. </p>
+            <p class="section__regular-text"> The Company owns the Visoka oil
+              field and in June 2018 signed heads of terms on three additional
+              agreements for the Cakran-Mollaj, Gorisht-Kocul and Amonicë oil
+              fields. Current combined production from these four fields is
+              approximately 1,100 bopd. The Company expects to finalise
+              production sharing agreements granting it full rights to produce
+              and develop the new fields before the end of 2020. </p>
+            <p class="section__regular-text"> The acquisition of the
+              Cakran-Mollaj, Gorisht-Kocul and Amonicë oilfields will help
+              enable Terraoil to achieve significant synergies and efficiency
+              gains. With the right funding and strategy, Terraoil aims to raise
+              production to over 20,000 bopd. A disciplined investment and
+              development program, economies of scale and low onshore operating
+              costs are expected to result in high margin barrels. </p>
+            <!-- <br/><br/>-->
+            <p class="section__regular-text"> Terraoil’s highly experienced
+              management team is well respected within the industry and has a
+              proven track record of operating in both heavy oil and in Albania.
+            </p>
+            <div class="section__row"> <img src="images/about-albania.jpg" alt="Albania photo">
+              <div class="section__row-container section__row-container--right">
+                <p class="section__regular-text"> Albania’s unique history has
+                  resulted in a vastly underdeveloped heavy-oil resource.
+                  Terraoil’s management team hopes to continue its record of
+                  realising the great potential of the country’s oil resources
+                  through further investment and new technology. Albania’s
+                  strong economic growth and status as a European Union
+                  candidate also provide the Company with a positive operating
+                  environment to continue the development of its business. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="strategy" class="section section--grey section--strategy">
+        <div class="container">
+          <div class="main-content-wrapper">
+            <h2 class="section__title">Vision <br class="mobile--375">
+              &amp; Strategy</h2>
+            <p class="section__description"> Terraoil’s strategy is focused on
+              becoming a leading oil producer in Albania while providing
+              significant returns for shareholders. </p>
+            <div class="two-columns">
+              <div class="two-columns__left">
+                <p> In addition to Visoka, including the acquisition of three
+                  new oilfields (Cakran-Mollaj, Gorisht-Kocul and Amonicë),
+                  Terraoil aims to increase current production levels from a
+                  total of approximately 1,100 bopd to over 20,000 bopd.
+                  Utilising the team’s vast experience and expertise in heavy
+                  oil production and based on its previous success in the
+                  country, the Company is pursuing a multi-pronged strategic
+                  plan to develop existing fields to establish significant cash
+                  generative production. The implementation of modern oilfield
+                  management techniques and equipment will be accomplished by: </p>
+                <ul>
+                  <li>vertical well reactivations</li>
+                  <li>implementation of a horizontal well drilling program</li>
+                  <li>replacing existing well equipment to allow larger
+                    drawdowns, manage water intrusion and thereby achieve an
+                    uplift in value of the fields</li>
+                  <li>increasing recovery factors through redevelopment and
+                    rehabilitation of the oilfields, using latest enhanced oil
+                    recovery technologies</li>
+                  <li>expanding reserves through appraisal drilling and primary
+                    development of the fields.</li>
+                </ul>
+                <p> The Company is also pursuing the acquisition of additional
+                  oilfields in Eurasia and other areas which have existing or
+                  near-term production and proven 2P reserves. </p>
+              </div>
+              <div class="two-columns__right">
+                <p> The Board and Management Team see great potential in Albania
+                  and since operating in the country, Terraoil has formed a
+                  strong relationship with the local councils and national
+                  government. By using these relationships and further enhancing
+                  the Company’s reputation in the country, Terraoil will
+                  continue to assess other potential opportunities in Albania. </p>
+                <br class="not-mobile--375">
+                <br class="not-mobile--375">
+                <br class="not-mobile--375">
+                <p> Terraoil maintains a strong ethic of operating to the
+                  highest health, safety, environmental and social standards
+                  while profitably developing energy resources within the
+                  region. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="board" class="section section--white section--board">
+        <div class="container">
+          <div class="main-content-wrapper">
+            <h2 class="section__title">Board</h2>
+            <div class="staff-card staff-card--image-left">
+              <div class="staff-card__image-container staff-card__image-container--1">
+                <img src="../images/staff-1.jpg" alt="Hans-Peter Vogt Photo" class="staff-card__image"
+
+                  height="584" width="441"> <img src="../images/staff-1-mobile.jpg"
+
+                  alt="Hans-Peter Vogt Photo" class="staff-card__image staff-card__image--mobile"
+
+                  height="584" width="441"> </div>
+              <div class="staff-card__staff-info">
+                <h3 class="staff-card__name">Hans-Peter Vogt</h3>
+                <span class="staff-card__position">Chairman</span>
+                <p class="staff-card__biography"> Hans-Peter Vogt was elected as
+                  Chairman of the Group in December 2016. Hans-Peter was General
+                  Secretary of the Department for Construction (State of St.
+                  Gall), Chief of Staff of the Investment and Trading Division
+                  of Swiss Volksbank, Co-Head of Winterthur-Life, Member of the
+                  Executive Board of Thurgauer Kantonalbank and of Kaiser Ritter
+                  Partner Private Bank (Liechtenstein). He also held a number of
+                  senior positions in private equity, real estate and investment
+                  funds and was Chairman of a listed German plant producer for
+                  biogas power plants. Hans-Peter Vogt is owner of HENISA
+                  Wirtschaftsberatung GmbH in St. Gall. Mr Vogt received a
+                  Master’s of Business Administration and Law from the
+                  University of St Gall and has completed the Senior Executive
+                  Programme at Stanford University and the Executive Marketing
+                  Camp at INSEAD at Fontainebleau. </p>
+              </div>
+            </div>
+            <div class="staff-card staff-card--image-right">
+              <div class="staff-card__image-container staff-card__image-container--2">
+                <img src="../images/staff-2.jpg" alt="Peter Krempin Photo" class="staff-card__image"
+
+                  height="584" width="441"> <img src="../images/staff-2-mobile.jpg"
+
+                  alt="Peter Krempin Photo" class="staff-card__image staff-card__image--mobile"
+
+                  height="584" width="441"> </div>
+              <div class="staff-card__staff-info">
+                <h3 class="staff-card__name">Peter Krempin</h3>
+                <span class="staff-card__position">Member and CEO</span>
+                <p class="staff-card__biography"> Mr Peter Krempin founded the
+                  Group in 2009 and is Chief Executive Officer of Terraoil.
+                  Prior to founding the Group, he was the Chief Executive
+                  Officer of Krempin Asset Management Swiss AG, a company
+                  specialising in international advisory work for corporate
+                  bonds in the commodity industry from 1997 to 2009 and worked
+                  for Krempin GmbH &amp; Co, a financial advisory and fund
+                  management firm from 1993 to 1997. Mr Krempin received a
+                  Master's in Finance from bbw Akademie Berlin. </p>
+              </div>
+            </div>
+            <div class="staff-card staff-card--image-left">
+              <div class="staff-card__image-container staff-card__image-container--4">
+                <img src="../images/staff-4.jpg" alt="Silvio Campestrini Photo"
+
+                  class="staff-card__image" height="584" width="441"> <img src="../images/staff-4-mobile.jpg"
+
+                  alt="Silvio Campestrini Photo" class="staff-card__image staff-card__image--mobile"
+
+                  height="584" width="441"> </div>
+              <div class="staff-card__staff-info">
+                <h3 class="staff-card__name">Silvio Campestrini</h3>
+                <span class="staff-card__position">Member</span>
+                <p class="staff-card__biography"> Mr Silvio Campestrini joined
+                  the Group in 2016. He is also Managing Partner of
+                  AAA-Corporate Finance Advisers Ltd, a position he has held for
+                  the last 18 years. Prior to joining AAA-Corporate Finance
+                  Advisers, Mr Campestrini was the Head of Mergers and
+                  Acquisitions at OBT AG for two years, Managing Director of MFC
+                  Merchant Investment bank AG for two years, Deputy Director of
+                  Corporate Finance at Ernst &amp; Young for three years and
+                  Chief Financial Officer at Curti Medien Holding AG for seven
+                  years. He has also been posted on various international
+                  assignments including with Jurg Marquard Holding in Poland,
+                  UTC International Holding in London and Siber Hegher &amp; Co
+                  in Hong Kong. Mr Campestrini has attended Höhere Wirtschaft-
+                  und Verwaltungsschule in Zurich and Harvard Business School. </p>
+              </div>
+            </div>
+            <div class="staff-card staff-card--image-right">
+              <div class="staff-card__image-container staff-card__image-container--6">
+                <img src="../images/staff-6.jpg" alt="Shefqet Dizdari Photo" class="staff-card__image"
+
+                  height="584" width="441"> <img src="../images/staff-6-mobile.jpg"
+
+                  alt="Shefqet Dizdari Photo" class="staff-card__image staff-card__image--mobile"
+
+                  height="584" width="441"> </div>
+              <div class="staff-card__staff-info">
+                <h3 class="staff-card__name">Shefqet Dizdari</h3>
+                <span class="staff-card__position">Member</span>
+                <p class="staff-card__biography"> Mr Shefqet Dizdari joined the
+                  Group in 2011. Prior to joining the Group, he worked as a
+                  private practice lawyer, public prosecutor of the Chief of
+                  Investigator's Office, High Officer in the Military Academy of
+                  Force Reserve and Head of Chrome Recovery State Enterprise. Mr
+                  Dizdari attended the Faculty of Political and Juridical
+                  Sciences at the University of Tirana and the Military Academy
+                  of Force Reserve. </p>
+              </div>
+            </div>
+            <div class="staff-card staff-card--image-left">
+              <div class="staff-card__image-container staff-card__image-container--3">
+                <img src="../images/staff-3.jpg" alt="Thomas Keglovics Photo" class="staff-card__image"
+
+                  height="584" width="441"> <img src="../images/staff-3-mobile.jpg"
+
+                  alt="Thomas Keglovics Photo" class="staff-card__image staff-card__image--mobile"
+
+                  height="584" width="441"> </div>
+              <div class="staff-card__staff-info">
+                <h3 class="staff-card__name">Thomas Keglovics</h3>
+                <span class="staff-card__position">Member</span>
+                <p class="staff-card__biography"> Mr Thomas Keglovics joined the
+                  Group as a member of the board in 2017. He is also a Managing
+                  Partner at M&amp;A Beratung, a position he has held since
+                  1998. Prior to joining the Group, he was CEO of the
+                  Supervisory Board of Subsidiaries for Zwerenz &amp; Krause
+                  GmbH from2009 to 2013 and has previously worked at RHI AG,
+                  Granville Baird PLC and Constantia Privatbank AG. Mr Keglovics
+                  received a Master's in Economics and Business Administration
+                  from WU University, a MBA from Webster University and a
+                  Master's in International Real Estate Valuations from Donau
+                  Universität. He is also a Certified Asset Manager. </p>
+              </div>
+            </div>
+            <div class="staff-card staff-card--image-right">
+              <div class="staff-card__image-container staff-card__image-container--5">
+                <img src="../images/staff-5.jpg" alt="Frank Wettstein Photo" class="staff-card__image"
+
+                  height="584" width="441"> <img src="../images/staff-5-mobile.jpg"
+
+                  alt="Frank Wettstein Photo" class="staff-card__image staff-card__image--mobile"
+
+                  height="584" width="441"> </div>
+              <div class="staff-card__staff-info">
+                <h3 class="staff-card__name">Dr Frank Gregor Wettstein</h3>
+                <span class="staff-card__position">Member</span>
+                <p class="staff-card__biography"> Dr Frank Gregor Wettstein
+                  joined the Group as a director in 2016. Prior to joining the
+                  Group, he was a Head Private Banking at Arab Bank
+                  (Switzerland) Ltd Zurich office between 2008 and 2012 and the
+                  Head Private Banking at Bank Frey &amp; Co AG between 2005 and
+                  2008. He has also held management positions at Bank Vontobel
+                  AG, and general management positions at CS Life and Credit
+                  Suisse, Monaco. Mr Wettstein received his business doctorate
+                  from the University of Zurich, an MBA from INSEAD
+                  Fontainebleau and attended the Advanced Executive Program at
+                  the Swiss Banking School. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="management" class="section section--management section--grey">
+        <div class="container">
+          <div class="main-content-wrapper">
+            <h2 class="section__title">Management</h2>
+            <div class="staff-card staff-card--image-right">
+              <div class="staff-card__image-container staff-card__image-container--8">
+                <img src="../images/staff-8.jpg" alt="Peter Krempin Photo" class="staff-card__image"
+
+                  height="584" width="441"> <img src="../images/staff-8-mobile.jpg"
+
+                  alt="Peter Krempin Photo" class="staff-card__image staff-card__image--mobile"
+
+                  height="584" width="441"> </div>
+              <div class="staff-card__staff-info">
+                <h3 class="staff-card__name">Peter Krempin</h3>
+                <span class="staff-card__position">Chief Executive Officer</span>
+                <p class="staff-card__biography"> Mr Peter Krempin founded the
+                  Group in 2009 and is Chief Executive Officer of Terraoil.
+                  Prior to founding the Group, he was the Chief Executive
+                  Officer of Krempin Asset Management Swiss AG, a company
+                  specialising in international advisory work for corporate
+                  bonds in the commodity industry from 1997 to 2009 and worked
+                  for Krempin GmbH &amp; Co, a financial advisory and fund
+                  management firm from 1993 to 1997. Mr Krempin received a
+                  Master's in Finance from bbw Akademie Berlin. </p>
+              </div>
+            </div>
+            <div class="staff-card staff-card--image-left">
+              <div class="staff-card__image-container staff-card__image-container--9">
+                <img src="../images/staff-9.jpg" alt="Bill Cummins Photo" class="staff-card__image"
+
+                  height="584" width="441"> <img src="../images/staff-9-mobile.jpg"
+
+                  alt="Bill Cummins Photo" class="staff-card__image staff-card__image--mobile"
+
+                  height="584" width="441"> </div>
+              <div class="staff-card__staff-info">
+                <h3 class="staff-card__name">Bill Cummins</h3>
+                <span class="staff-card__position">Chief Financial Officer</span>
+                <p class="staff-card__biography"> Prior to joining the Group in
+                  2018 as Chief Financial Officer, Mr Bill Cummins was Chief
+                  Financial Officer and Corporate Secretary at Petromanas Energy
+                  Inc. from 2010 to 2016; Chief Financial Officer at Calvalley
+                  Petroleum Inc. from 2007 to 2010; Vice President of Corporate
+                  Finance at Leede Financial Markets Inc. from 2001 to 2007 and
+                  Controller at Calgary Overseas Development (JV) Limited from
+                  1994 to 2001. Mr Cummins received a Bachelor of Commerce from
+                  the University of Calgary and a MBA from the International
+                  Institute for Management Development, Lausanne, Switzerland.
+                  He is a Chartered Accountant. </p>
+              </div>
+            </div>
+            <div class="staff-card staff-card--image-right">
+              <div class="staff-card__image-container staff-card__image-container--10">
+                <img src="../images/staff-10.jpg" alt="Bayne Assmus Photo" class="staff-card__image"
+
+                  height="584" width="441"> <img src="../images/staff-10-mobile.jpg"
+
+                  alt="Bayne Assmus Photo" class="staff-card__image staff-card__image--mobile"
+
+                  height="584" width="441"> </div>
+              <div class="staff-card__staff-info">
+                <h3 class="staff-card__name">Bayne Assmus</h3>
+                <span class="staff-card__position">Chief Operating Officer</span>
+                <p class="staff-card__biography"> Mr Bayne Assmus joined the
+                  Group in 2018. Prior to joining the Group, he worked for
+                  Bankers Petroleum Limited in a variety of positions including
+                  Vice President, Engineering &amp; Operations, Deputy General
+                  Director VP Production &amp; Operations and Vice President,
+                  Production &amp; Operations. He has also worked at Arcan
+                  Resources Ltd, Harvest Energy, Encana Oil &amp; Gas and
+                  Petroversa Resources Ltd. Mr Assmus received a Bachelor of
+                  Geological Engineering from the University of Saskatchewan. He
+                  is a Professional Engineer, APEGA member and SPE member. </p>
+              </div>
+            </div>
+            <div class="staff-card staff-card--image-left">
+              <div class="staff-card__image-container staff-card__image-container--11">
+                <img src="../images/staff-11.jpg" alt="Peter Clutterbuck Photo"
+
+                  class="staff-card__image" height="584" width="441"> <img src="../images/staff-11-mobile.jpg"
+
+                  alt="Peter Clutterbuck Photo" class="staff-card__image staff-card__image--mobile"
+
+                  height="584" width="441"> </div>
+              <div class="staff-card__staff-info">
+                <h3 class="staff-card__name">Peter Clutterbuck</h3>
+                <span class="staff-card__position">Chief Technical Officer</span>
+                <p class="staff-card__biography"> Peter Clutterbuck joined the
+                  Group in 2015. He is also Managing Director of Global Energy
+                  Consultants Ltd. Mr Clutterbuck has extensive experience
+                  managing heavy and viscous oil developments in countries
+                  including Russia, Kazakhstan, Azerbaijan, Poland, Lithuania
+                  and Vietnam which used Soviet era petroleum technology. He
+                  worked for the BP group in operations management for 15 years
+                  in Abu Dhabi, UK North Sea, and Alaska. Subsequently, Mr
+                  Clutterbuck was the Chief Executive Officer of four listed oil
+                  companies and has served on the boards of four AIM oil
+                  companies. His heavy oil experience includes fields in
+                  Colombia, Alaska, California, and Madagascar. Mr Clutterbuck
+                  served on the Board of the Society of Petroleum Engineers
+                  (SPE) in London. He holds a Master’s degree in Engineering
+                  from Cambridge University. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="careers" class="section section--white section--careers">
+        <div class="container">
+          <div class="main-content-wrapper">
+            <h2 class="section__title">Careers</h2>
+            <p class="section__description"> Terraoil takes great pride in
+              delivering value in a safe, secure and environmentally responsible
+              manner for all its stakeholders, and is fully committed to
+              attaining the highest level of personal and professional
+              development for all employees. </p>
+            <p class="section__regular-text"> For anyone looking to build a
+              career at an innovative, growing, heavy oil production company,
+              Terraoil is a great place to work. <br>
+              <br>
+              There are currently no vacancies available. However, we are always
+              keen to meet energetic and talented professionals who would like
+              to join our team. </p>
+          </div>
+        </div>
+      </section>
+    </main>
+    <div class="wrapper row4">
+      <footer id="footer" class="hoc clear">
+        <!-- ################################################################################################ -->
+        <div class="center btmspace-50">
+          <h6 class="heading">TERRAOIL</h6>
+          <nav>
+            <ul class="nospace inline pushright uppercase">
+              <li><a href="../index.html"><i class="fas fa-lg fa-home"></i></a><br>
+              </li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Contact</a></li>
+              <li><a href="#">Terms</a></li>
+              <li><a href="privacy">Privacy</a></li>
+              <li><a href="#">Cookies</a></li>
+              <li><a href="disclaimer">Disclaimer</a></li>
+            </ul>
+          </nav>
+        </div>
+        <!-- ################################################################################################ -->
+        <hr class="btmspace-50">
+        <!-- ################################################################################################ -->
+        <div class="group">
+          <div class="one_quarter first">
+            <h6 class="heading">Ligula aenean id odio</h6>
+            <ul class="nospace btmspace-30 linklist contact">
+              <li><i class="fas fa-map-marker-alt"></i>
+                <address> Street Name &amp; Number, Town, Postcode/Zip </address>
+              </li>
+              <li><i class="fas fa-phone"></i> +00 (123) 456 7890</li>
+              <li><i class="far fa-envelope"></i> info@domain.com</li>
+            </ul>
+            <ul class="faico clear">
+              <li><a class="faicon-facebook" href="#"><i class="fab fa-facebook"></i></a><br>
+              </li>
+              <li><a class="faicon-google-plus" href="#"><i class="fab fa-google-plus-g"></i></a><br>
+              </li>
+              <li><a class="faicon-linkedin" href="#"><i class="fab fa-linkedin"></i></a><br>
+              </li>
+              <li><a class="faicon-twitter" href="#"><i class="fab fa-twitter"></i></a><br>
+              </li>
+              <li><a class="faicon-vk" href="#"><i class="fab fa-vk"></i></a><br>
+              </li>
+            </ul>
+          </div>
+          <div class="one_quarter">
+            <h6 class="heading">Vivamus risus maecenas</h6>
+            <p class="nospace btmspace-15">Nunc urna porttitor eget molestie a
+              consequat at lectus donec sollicitudin.</p>
+            <form method="post" action="#">
+              <fieldset> <legend>Newsletter:</legend> <input class="btmspace-15"
+
+                  value="" placeholder="Name" type="text"> <input class="btmspace-15"
+
+                  value="" placeholder="Email" type="text"> <button type="submit"
+
+                  value="submit">Submit</button> </fieldset>
+            </form>
+          </div>
+          <div class="one_quarter">
+            <h6 class="heading">Dictum sit amet tortor</h6>
+            <ul class="nospace linklist">
+              <li><a href="#">Est a orci donec eleifend</a></li>
+              <li><a href="#">Dignissim erat proin diam</a></li>
+              <li><a href="#">Aenean vehicula augue</a></li>
+              <li><a href="#">Et neque sed ligula nisl</a></li>
+              <li><a href="#">Dictum quis tempus eu</a></li>
+            </ul>
+          </div>
+          <div class="one_quarter">
+            <h6 class="heading">Proin tincidunt venenatis</h6>
+            <ul class="nospace clear latestimg">
+              <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                    alt=""></a></li>
+              <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                    alt=""></a></li>
+              <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                    alt=""></a></li>
+              <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                    alt=""></a></li>
+              <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                    alt=""></a></li>
+              <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                    alt=""></a></li>
+              <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                    alt=""></a></li>
+              <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                    alt=""></a></li>
+              <li><a class="imgover" href="#"><img src="images/demo/100x100.png"
+
+                    alt=""></a></li>
+            </ul>
+          </div>
+        </div>
+        <!-- ################################################################################################ -->
+      </footer>
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <div class="wrapper row5">
+      <div id="copyright" class="hoc clear">
+        <!-- ################################################################################################ -->
+        <p class="fl_left">Copyright © 2018 - All Rights Reserved - <a href="#">Domain
+            Name</a></p>
+        <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/"
+
+            title="Free Website Templates">OS Templates</a></p>
+        <!-- ################################################################################################ -->
+      </div>
+    </div>
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- ################################################################################################ -->
+    <!-- JAVASCRIPTS -->
+    <script src="layout/scripts/jquery.min.js"></script>
+    <script src="layout/scripts/jquery.backtotop.js"></script>
+    <script src="layout/scripts/jquery.mobilemenu.js"></script>
+    <script src="js/main30f4.js?v=3"></script>
+  </body>
+</html>
